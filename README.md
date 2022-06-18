@@ -53,9 +53,7 @@ Care should be taken that the updated `version.json` is not pushed before a jar 
 download page (or Jenkins) as it will inform the users of the update.
 
 ### Bugs
-GitHub should generally be used to report bugs.
-
-In the past, bugs were tracked via [Bugzilla](https://bugs.replaymod.com/), so bug numbers in commits prior to 2020 such as `(fixes #42)` generally referred to Bugzilla unless noted otherwise.
+Report on this repo if it only occurs on this fork, report it upstream otherwise.
 
 ## License
 The ReplayMod is provided under the terms of the GNU General Public License Version 3 or (at your option) any later version.
